@@ -2,7 +2,7 @@
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Visit Website Here: https://nextjs-dashboard-beta-pied-92.vercel.app/
 
-Email: user@nextmail.com
+Email: user@nextmail.com <br>
 Password: 123456
